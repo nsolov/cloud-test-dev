@@ -1,3 +1,4 @@
+A
 # Sandbox Cloud Template
 
 This repository is a starter template for deploying an InterSystems IRIS application to the InterSystems Developer Sandbox with GitHub Actions.
